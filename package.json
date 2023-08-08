@@ -1,0 +1,32 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "estudos de node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilberdeveloper/curso-node-js.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "mongodb",
+    "javascript",
+    "pwdd",
+    "atuh2.0"
+  ],
+  "author": "Guilber Developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilberdeveloper/curso-node-js/issues"
+  },
+  "homepage": "https://github.com/guilberdeveloper/curso-node-js#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
